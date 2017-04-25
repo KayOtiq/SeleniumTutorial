@@ -1,0 +1,514 @@
+2016-06-21 16:51:56,832 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:51:56,833 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 16:51:56,833 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:51:56,833 INFO  [Log]   
+2016-06-21 16:51:57,289 INFO  [Log] Excel data sheet opened 
+2016-06-21 16:51:59,641 INFO  [Log] Chrome driver instantiated 
+2016-06-21 16:51:59,645 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 16:52:08,570 INFO  [Log] Test browser opened 
+2016-06-21 16:52:08,584 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 16:52:08,585 INFO  [Log] Password from test data is Test@123 
+2016-06-21 16:55:06,135 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:55:06,136 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 16:55:06,136 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:55:06,136 INFO  [Log]   
+2016-06-21 16:55:06,781 INFO  [Log] Excel data sheet opened 
+2016-06-21 16:55:09,353 INFO  [Log] Chrome driver instantiated 
+2016-06-21 16:55:09,357 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 16:55:16,231 INFO  [Log] Test browser opened 
+2016-06-21 16:56:41,999 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:56:41,999 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 16:56:41,999 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:56:41,999 INFO  [Log]   
+2016-06-21 16:56:42,430 INFO  [Log] Excel data sheet opened 
+2016-06-21 16:56:44,787 INFO  [Log] Chrome driver instantiated 
+2016-06-21 16:56:44,791 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 16:56:49,952 INFO  [Log] Test browser opened 
+2016-06-21 16:57:43,806 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:57:43,807 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 16:57:43,807 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:57:43,807 INFO  [Log]   
+2016-06-21 16:57:44,249 INFO  [Log] Excel data sheet opened 
+2016-06-21 16:57:46,635 INFO  [Log] Chrome driver instantiated 
+2016-06-21 16:57:46,638 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 16:57:50,479 INFO  [Log] Test browser opened 
+2016-06-21 16:59:45,212 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:59:45,213 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 16:59:45,213 INFO  [Log] **************************************************************************************** 
+2016-06-21 16:59:45,213 INFO  [Log]   
+2016-06-21 16:59:45,674 INFO  [Log] Excel data sheet opened 
+2016-06-21 16:59:48,060 INFO  [Log] Chrome driver instantiated 
+2016-06-21 16:59:48,064 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 16:59:53,495 INFO  [Log] Test browser opened 
+2016-06-21 16:59:53,503 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 16:59:53,504 INFO  [Log] Password from test data is Test@123 
+2016-06-21 17:01:43,590 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:01:43,590 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  001 
+2016-06-21 17:01:43,590 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:01:43,590 INFO  [Log]   
+2016-06-21 17:01:44,074 INFO  [Log] Excel data sheet opened 
+2016-06-21 17:01:46,628 INFO  [Log] Chrome driver instantiated 
+2016-06-21 17:01:46,631 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 17:01:50,933 INFO  [Log] Test browser opened 
+2016-06-21 17:01:50,938 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 17:01:50,938 INFO  [Log] Password from test data is Test@123 
+2016-06-21 17:01:50,960 INFO  [Log] My Account link element found 
+2016-06-21 17:01:53,383 INFO  [Log] My Account link click action performed 
+2016-06-21 17:01:53,403 INFO  [Log] Username text box found 
+2016-06-21 17:01:53,450 INFO  [Log] Username entered into Username text box 
+2016-06-21 17:01:53,466 INFO  [Log] Password text box found 
+2016-06-21 17:01:53,504 INFO  [Log] Password entered into password text box 
+2016-06-21 17:01:53,518 INFO  [Log] Submit Button found 
+2016-06-21 17:01:53,556 INFO  [Log] Submit button clicked 
+2016-06-21 17:01:54,836 INFO  [Log] Browser closed 
+2016-06-21 17:01:54,920 INFO  [Log] Test results logged 
+2016-06-21 17:01:54,920 INFO  [Log]                            END OF TEST Selenium Test: 001              
+2016-06-21 17:01:54,920 INFO  [Log] X 
+2016-06-21 17:01:54,921 INFO  [Log] X 
+2016-06-21 17:01:54,921 INFO  [Log] X 
+2016-06-21 17:01:54,921 INFO  [Log] X 
+2016-06-21 17:04:33,207 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:04:33,208 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 17:04:33,208 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:04:33,208 INFO  [Log]   
+2016-06-21 17:04:33,792 INFO  [Log] Excel data sheet opened 
+2016-06-21 17:04:36,420 INFO  [Log] Chrome driver instantiated 
+2016-06-21 17:04:36,425 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 17:04:41,051 INFO  [Log] Test browser opened 
+2016-06-21 17:04:41,065 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 17:04:41,066 INFO  [Log] Password from test data is Test@123 
+2016-06-21 17:12:18,126 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:12:18,127 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 17:12:18,127 INFO  [Log] **************************************************************************************** 
+2016-06-21 17:12:18,127 INFO  [Log]   
+2016-06-21 17:12:18,579 INFO  [Log] Excel data sheet opened 
+2016-06-21 17:12:20,929 INFO  [Log] Chrome driver instantiated 
+2016-06-21 17:12:20,941 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 17:12:25,635 INFO  [Log] Test browser opened 
+2016-06-21 17:12:25,648 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 17:12:25,648 INFO  [Log] Password from test data is Test@123 
+2016-06-21 23:39:17,689 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:39:17,690 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 23:39:17,690 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:39:17,690 INFO  [Log]   
+2016-06-21 23:39:18,825 INFO  [Log] Excel data sheet opened 
+2016-06-21 23:39:27,290 INFO  [Log] Chrome driver instantiated 
+2016-06-21 23:39:27,294 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 23:39:31,331 INFO  [Log] Test browser opened 
+2016-06-21 23:39:31,344 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 23:39:31,345 INFO  [Log] Password from test data is Test@123 
+2016-06-21 23:41:41,669 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:41:41,670 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 23:41:41,670 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:41:41,670 INFO  [Log]   
+2016-06-21 23:41:42,203 INFO  [Log] Excel data sheet opened 
+2016-06-21 23:41:44,566 INFO  [Log] Chrome driver instantiated 
+2016-06-21 23:41:44,570 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 23:41:50,388 INFO  [Log] Test browser opened 
+2016-06-21 23:41:50,400 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 23:41:50,400 INFO  [Log] Password from test data is Test@123 
+2016-06-21 23:45:31,293 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:45:31,294 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 23:45:31,294 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:45:31,294 INFO  [Log]   
+2016-06-21 23:45:31,843 INFO  [Log] Excel data sheet opened 
+2016-06-21 23:45:35,037 INFO  [Log] Chrome driver instantiated 
+2016-06-21 23:45:35,041 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 23:45:42,880 INFO  [Log] Test browser opened 
+2016-06-21 23:45:42,890 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 23:45:42,891 INFO  [Log] Password from test data is Test@123 
+2016-06-21 23:51:43,555 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:51:43,555 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-21 23:51:43,555 INFO  [Log] **************************************************************************************** 
+2016-06-21 23:51:43,555 INFO  [Log]   
+2016-06-21 23:51:44,005 INFO  [Log] Excel data sheet opened 
+2016-06-21 23:51:46,402 INFO  [Log] Chrome driver instantiated 
+2016-06-21 23:51:46,407 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-21 23:51:51,093 INFO  [Log] Test browser opened 
+2016-06-21 23:51:51,111 INFO  [Log] Username from test data is testuser_1 
+2016-06-21 23:51:51,111 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:02:30,141 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:02:30,142 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:02:30,142 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:02:30,142 INFO  [Log]   
+2016-06-22 00:02:32,687 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:02:32,691 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:02:35,062 INFO  [Log] Test browser opened 
+2016-06-22 00:03:49,792 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:03:49,793 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:03:49,793 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:03:49,793 INFO  [Log]   
+2016-06-22 00:03:52,194 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:03:52,199 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:04:10,508 INFO  [Log] Test browser opened 
+2016-06-22 00:12:01,371 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:12:01,371 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:12:01,371 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:12:01,371 INFO  [Log]   
+2016-06-22 00:12:03,783 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:12:03,787 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:12:07,643 INFO  [Log] Test browser opened 
+2016-06-22 00:13:37,310 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:13:37,311 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:13:37,311 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:13:37,311 INFO  [Log]   
+2016-06-22 00:13:39,713 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:13:39,716 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:13:45,035 INFO  [Log] Test browser opened 
+2016-06-22 00:19:26,002 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:19:26,003 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:19:26,003 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:19:26,003 INFO  [Log]   
+2016-06-22 00:19:26,483 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:19:28,881 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:19:28,887 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:19:35,237 INFO  [Log] Test browser opened 
+2016-06-22 00:19:35,259 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:19:35,260 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:20:08,935 INFO  [Log] Browser closed 
+2016-06-22 00:20:09,009 INFO  [Log] Test results logged 
+2016-06-22 00:20:09,009 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-06-22 00:20:09,009 INFO  [Log] X 
+2016-06-22 00:20:09,009 INFO  [Log] X 
+2016-06-22 00:20:09,009 INFO  [Log] X 
+2016-06-22 00:20:09,009 INFO  [Log] X 
+2016-06-22 00:24:33,446 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:24:33,446 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:24:33,447 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:24:33,447 INFO  [Log]   
+2016-06-22 00:24:34,054 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:24:36,510 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:24:36,514 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:24:40,944 INFO  [Log] Test browser opened 
+2016-06-22 00:24:40,966 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:24:40,966 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:26:05,609 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:26:05,609 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:26:05,609 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:26:05,609 INFO  [Log]   
+2016-06-22 00:26:06,086 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:26:08,442 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:26:08,447 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:26:13,127 INFO  [Log] Test browser opened 
+2016-06-22 00:26:13,147 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:26:13,148 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:26:26,945 INFO  [Log] Browser closed 
+2016-06-22 00:26:27,001 INFO  [Log] Test results logged 
+2016-06-22 00:26:27,001 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-06-22 00:26:27,001 INFO  [Log] X 
+2016-06-22 00:26:27,001 INFO  [Log] X 
+2016-06-22 00:26:27,001 INFO  [Log] X 
+2016-06-22 00:26:27,001 INFO  [Log] X 
+2016-06-22 00:27:38,672 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:27:38,672 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  Log4Logging TC 
+2016-06-22 00:27:38,672 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:27:38,672 INFO  [Log]   
+2016-06-22 00:27:39,166 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:27:41,797 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:27:41,801 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:27:46,018 INFO  [Log] Test browser opened 
+2016-06-22 00:27:46,024 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:27:46,025 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:35:18,491 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:35:18,491 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:35:18,492 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:35:18,492 INFO  [Log]   
+2016-06-22 00:35:19,074 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:35:21,420 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:35:21,425 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:35:26,642 INFO  [Log] Test browser opened 
+2016-06-22 00:35:26,661 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:35:26,661 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:35:53,262 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:35:53,262 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 00:35:53,262 INFO  [Log] **************************************************************************************** 
+2016-06-22 00:35:53,262 INFO  [Log]   
+2016-06-22 00:35:53,750 INFO  [Log] Excel data sheet opened 
+2016-06-22 00:35:56,189 INFO  [Log] Chrome driver instantiated 
+2016-06-22 00:35:56,194 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 00:36:00,726 INFO  [Log] Test browser opened 
+2016-06-22 00:36:00,747 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 00:36:00,748 INFO  [Log] Password from test data is Test@123 
+2016-06-22 00:36:00,785 INFO  [Log] My Account link element found 
+2016-06-22 00:36:02,571 INFO  [Log] My Account link click action performed 
+2016-06-22 00:36:02,589 INFO  [Log] Username text box found 
+2016-06-22 00:36:02,636 INFO  [Log] Username entered into Username text box 
+2016-06-22 00:36:02,652 INFO  [Log] Password text box found 
+2016-06-22 00:36:02,691 INFO  [Log] Password entered into password text box 
+2016-06-22 00:36:02,709 INFO  [Log] Submit Button found 
+2016-06-22 00:36:02,746 INFO  [Log] Submit button clicked 
+2016-06-22 00:36:06,129 INFO  [Log] Browser closed 
+2016-06-22 00:36:06,183 INFO  [Log] Test results logged 
+2016-06-22 00:36:06,184 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-06-22 00:36:06,184 INFO  [Log] X 
+2016-06-22 00:36:06,184 INFO  [Log] X 
+2016-06-22 00:36:06,184 INFO  [Log] X 
+2016-06-22 00:36:06,184 INFO  [Log] X 
+2016-06-22 01:39:58,715 INFO  [Log] **************************************************************************************** 
+2016-06-22 01:39:58,715 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-06-22 01:39:58,715 INFO  [Log] **************************************************************************************** 
+2016-06-22 01:39:58,715 INFO  [Log]   
+2016-06-22 01:40:01,719 INFO  [Log] Chrome driver instantiated 
+2016-06-22 01:40:01,723 INFO  [Log] Implecit wait for driver set to 20 seconds 
+2016-06-22 01:40:06,588 INFO  [Log] Target URL launched 
+2016-06-22 01:40:06,595 INFO  [Log] Username from test data is testuser_1 
+2016-06-22 01:40:06,595 INFO  [Log] Password from test data is Test@123 
+2016-06-22 01:40:06,617 INFO  [Log] My Account link element found 
+2016-06-22 01:40:09,311 INFO  [Log] My Account link click action performed 
+2016-06-22 01:40:09,331 INFO  [Log] Username text box found 
+2016-06-22 01:40:09,375 INFO  [Log] Username entered into Username text box 
+2016-06-22 01:40:09,393 INFO  [Log] Password text box found 
+2016-06-22 01:40:09,430 INFO  [Log] Password entered into password text box 
+2016-06-22 01:40:09,446 INFO  [Log] Submit Button found 
+2016-06-22 01:40:09,481 INFO  [Log] Submit button clicked 
+2016-06-22 02:02:10,731 INFO  [Log] **************************************************************************************** 
+2016-06-22 02:02:10,731 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 02:02:10,731 INFO  [Log] **************************************************************************************** 
+2016-06-22 02:02:10,731 INFO  [Log]   
+2016-06-22 02:02:13,224 INFO  [Log] Chrome driver instantiated 
+2016-06-22 02:02:13,228 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 02:02:17,566 INFO  [Log] Test browser opened 
+2016-06-22 02:03:13,800 INFO  [Log] **************************************************************************************** 
+2016-06-22 02:03:13,801 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-06-22 02:03:13,801 INFO  [Log] **************************************************************************************** 
+2016-06-22 02:03:13,801 INFO  [Log]   
+2016-06-22 02:03:16,235 INFO  [Log] Chrome driver instantiated 
+2016-06-22 02:03:16,239 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-06-22 02:03:21,145 INFO  [Log] Test browser opened 
+2016-08-12 07:42:56,042 INFO  [Log] **************************************************************************************** 
+2016-08-12 07:42:56,043 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-12 07:42:56,043 INFO  [Log] **************************************************************************************** 
+2016-08-12 07:42:56,043 INFO  [Log]   
+2016-08-12 07:42:56,680 INFO  [Log] Excel data sheet opened 
+2016-08-12 07:43:05,704 INFO  [Log] Chrome driver instantiated 
+2016-08-12 07:43:05,711 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-12 07:43:12,845 INFO  [Log] Test browser opened 
+2016-08-12 07:43:12,887 INFO  [Log] Username from test data is testuser_1 
+2016-08-12 07:43:12,887 INFO  [Log] Password from test data is Test@123 
+2016-08-12 07:43:12,927 INFO  [Log] My Account link element found 
+2016-08-12 07:43:15,369 INFO  [Log] My Account link click action performed 
+2016-08-12 07:43:15,419 INFO  [Log] Username text box found 
+2016-08-12 07:43:15,467 INFO  [Log] Username entered into Username text box 
+2016-08-12 07:43:15,482 INFO  [Log] Password text box found 
+2016-08-12 07:43:15,521 INFO  [Log] Password entered into password text box 
+2016-08-12 07:43:15,539 INFO  [Log] Submit Button found 
+2016-08-12 07:43:15,574 INFO  [Log] Submit button clicked 
+2016-08-12 07:43:19,011 INFO  [Log] Browser closed 
+2016-08-12 07:43:19,079 INFO  [Log] Test results logged 
+2016-08-12 07:43:19,080 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-12 07:43:19,080 INFO  [Log] X 
+2016-08-12 07:43:19,080 INFO  [Log] X 
+2016-08-12 07:43:19,080 INFO  [Log] X 
+2016-08-12 07:43:19,080 INFO  [Log] X 
+2016-08-13 07:44:18,335 INFO  [Log] **************************************************************************************** 
+2016-08-13 07:44:18,336 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 07:44:18,336 INFO  [Log] **************************************************************************************** 
+2016-08-13 07:44:18,336 INFO  [Log]   
+2016-08-13 07:44:18,987 INFO  [Log] Excel data sheet opened 
+2016-08-13 07:44:26,892 INFO  [Log] Chrome driver instantiated 
+2016-08-13 07:44:26,898 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 07:44:31,466 INFO  [Log] Test browser opened 
+2016-08-13 07:44:31,533 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 07:44:31,534 INFO  [Log] Password from test data is Test@123 
+2016-08-13 07:44:31,572 INFO  [Log] My Account link element found 
+2016-08-13 07:44:33,046 INFO  [Log] My Account link click action performed 
+2016-08-13 07:44:33,089 INFO  [Log] Username text box found 
+2016-08-13 07:44:33,133 INFO  [Log] Username entered into Username text box 
+2016-08-13 07:44:33,150 INFO  [Log] Password text box found 
+2016-08-13 07:44:33,188 INFO  [Log] Password entered into password text box 
+2016-08-13 07:44:33,204 INFO  [Log] Submit Button found 
+2016-08-13 07:44:33,237 INFO  [Log] Submit button clicked 
+2016-08-13 07:44:36,733 INFO  [Log] Browser closed 
+2016-08-13 07:44:36,830 INFO  [Log] Test results logged 
+2016-08-13 07:44:36,830 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 07:44:36,830 INFO  [Log] X 
+2016-08-13 07:44:36,830 INFO  [Log] X 
+2016-08-13 07:44:36,830 INFO  [Log] X 
+2016-08-13 07:44:36,830 INFO  [Log] X 
+2016-08-13 10:19:13,748 INFO  [Log] **************************************************************************************** 
+2016-08-13 10:19:13,749 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 10:19:13,749 INFO  [Log] **************************************************************************************** 
+2016-08-13 10:19:13,749 INFO  [Log]   
+2016-08-13 10:19:14,208 INFO  [Log] Excel data sheet opened 
+2016-08-13 10:19:16,624 INFO  [Log] Chrome driver instantiated 
+2016-08-13 10:19:16,630 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 10:19:22,731 INFO  [Log] Test browser opened 
+2016-08-13 10:19:22,750 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 10:19:22,750 INFO  [Log] Password from test data is Test@123 
+2016-08-13 10:19:22,792 INFO  [Log] My Account link element found 
+2016-08-13 10:19:24,219 INFO  [Log] My Account link click action performed 
+2016-08-13 10:19:24,237 INFO  [Log] Username text box found 
+2016-08-13 10:19:24,281 INFO  [Log] Username entered into Username text box 
+2016-08-13 10:19:24,297 INFO  [Log] Password text box found 
+2016-08-13 10:19:24,336 INFO  [Log] Password entered into password text box 
+2016-08-13 10:19:24,354 INFO  [Log] Submit Button found 
+2016-08-13 10:19:24,393 INFO  [Log] Submit button clicked 
+2016-08-13 10:19:27,892 INFO  [Log] Browser closed 
+2016-08-13 10:19:27,945 INFO  [Log] Test results logged 
+2016-08-13 10:19:27,945 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 10:19:27,945 INFO  [Log] X 
+2016-08-13 10:19:27,945 INFO  [Log] X 
+2016-08-13 10:19:27,945 INFO  [Log] X 
+2016-08-13 10:19:27,945 INFO  [Log] X 
+2016-08-13 11:02:04,440 INFO  [Log] **************************************************************************************** 
+2016-08-13 11:02:04,440 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 11:02:04,440 INFO  [Log] **************************************************************************************** 
+2016-08-13 11:02:04,440 INFO  [Log]   
+2016-08-13 11:02:04,898 INFO  [Log] Excel data sheet opened 
+2016-08-13 11:02:07,321 INFO  [Log] Chrome driver instantiated 
+2016-08-13 11:02:07,326 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 11:02:11,214 INFO  [Log] Test browser opened 
+2016-08-13 11:02:11,222 INFO  [Log] **************************************************************************************** 
+2016-08-13 11:02:11,222 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 11:02:11,222 INFO  [Log] **************************************************************************************** 
+2016-08-13 11:02:11,222 INFO  [Log]   
+2016-08-13 11:02:13,116 INFO  [Log] Chrome driver instantiated 
+2016-08-13 11:02:13,119 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 11:02:18,275 INFO  [Log] Test browser opened 
+2016-08-13 11:02:19,890 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 11:02:19,891 INFO  [Log] Password from test data is Test@123 
+2016-08-13 11:02:19,908 INFO  [Log] My Account link element found 
+2016-08-13 11:02:21,729 INFO  [Log] My Account link click action performed 
+2016-08-13 11:02:21,753 INFO  [Log] Username text box found 
+2016-08-13 11:02:21,800 INFO  [Log] Username entered into Username text box 
+2016-08-13 11:02:21,818 INFO  [Log] Password text box found 
+2016-08-13 11:02:21,859 INFO  [Log] Password entered into password text box 
+2016-08-13 11:02:21,875 INFO  [Log] Submit Button found 
+2016-08-13 11:02:21,910 INFO  [Log] Submit button clicked 
+2016-08-13 11:02:25,128 INFO  [Log] Browser closed 
+2016-08-13 11:02:25,186 INFO  [Log] Test results logged 
+2016-08-13 11:02:25,186 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 11:02:25,186 INFO  [Log] X 
+2016-08-13 11:02:25,186 INFO  [Log] X 
+2016-08-13 11:02:25,186 INFO  [Log] X 
+2016-08-13 11:02:25,186 INFO  [Log] X 
+2016-08-13 21:26:39,803 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:26:39,815 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-08-13 21:26:39,815 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:26:39,815 INFO  [Log]   
+2016-08-13 21:26:41,219 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:26:41,219 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:29:22,565 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:29:22,566 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-08-13 21:29:22,566 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:29:22,566 INFO  [Log]   
+2016-08-13 21:29:23,074 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:29:23,074 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:29:42,601 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:29:42,601 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-08-13 21:29:42,601 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:29:42,602 INFO  [Log]   
+2016-08-13 21:29:43,086 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:29:43,087 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:31:57,940 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:31:57,941 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 21:31:57,941 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:31:57,941 INFO  [Log]   
+2016-08-13 21:31:58,422 INFO  [Log] Excel data sheet opened 
+2016-08-13 21:32:03,118 INFO  [Log] Chrome driver instantiated 
+2016-08-13 21:32:03,127 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 21:32:07,455 INFO  [Log] Test browser opened 
+2016-08-13 21:32:07,468 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:32:07,468 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:32:07,505 INFO  [Log] My Account link element found 
+2016-08-13 21:32:09,101 INFO  [Log] My Account link click action performed 
+2016-08-13 21:32:09,128 INFO  [Log] Username text box found 
+2016-08-13 21:32:09,170 INFO  [Log] Username entered into Username text box 
+2016-08-13 21:32:09,187 INFO  [Log] Password text box found 
+2016-08-13 21:32:09,228 INFO  [Log] Password entered into password text box 
+2016-08-13 21:32:09,245 INFO  [Log] Submit Button found 
+2016-08-13 21:32:09,280 INFO  [Log] Submit button clicked 
+2016-08-13 21:32:13,117 INFO  [Log] Browser closed 
+2016-08-13 21:32:13,266 INFO  [Log] Test results logged 
+2016-08-13 21:32:13,266 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 21:32:13,266 INFO  [Log] X 
+2016-08-13 21:32:13,266 INFO  [Log] X 
+2016-08-13 21:32:13,266 INFO  [Log] X 
+2016-08-13 21:32:13,266 INFO  [Log] X 
+2016-08-13 21:32:23,769 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:32:23,769 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-08-13 21:32:23,770 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:32:23,770 INFO  [Log]   
+2016-08-13 21:32:24,340 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:32:24,340 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:33:22,277 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:33:22,278 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 21:33:22,278 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:33:22,278 INFO  [Log]   
+2016-08-13 21:33:22,737 INFO  [Log] Excel data sheet opened 
+2016-08-13 21:33:25,102 INFO  [Log] Chrome driver instantiated 
+2016-08-13 21:33:25,108 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 21:33:29,141 INFO  [Log] Test browser opened 
+2016-08-13 21:33:29,161 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:33:29,161 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:33:29,186 INFO  [Log] My Account link element found 
+2016-08-13 21:33:30,662 INFO  [Log] My Account link click action performed 
+2016-08-13 21:33:30,680 INFO  [Log] Username text box found 
+2016-08-13 21:33:30,720 INFO  [Log] Username entered into Username text box 
+2016-08-13 21:33:30,736 INFO  [Log] Password text box found 
+2016-08-13 21:33:30,774 INFO  [Log] Password entered into password text box 
+2016-08-13 21:33:30,791 INFO  [Log] Submit Button found 
+2016-08-13 21:33:30,830 INFO  [Log] Submit button clicked 
+2016-08-13 21:33:34,279 INFO  [Log] Browser closed 
+2016-08-13 21:33:34,332 INFO  [Log] Test results logged 
+2016-08-13 21:33:34,332 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 21:33:34,332 INFO  [Log] X 
+2016-08-13 21:33:34,332 INFO  [Log] X 
+2016-08-13 21:33:34,333 INFO  [Log] X 
+2016-08-13 21:33:34,333 INFO  [Log] X 
+2016-08-13 21:35:32,295 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:35:32,295 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2016-08-13 21:35:32,295 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:35:32,295 INFO  [Log]   
+2016-08-13 21:35:32,743 INFO  [Log] Excel data sheet opened 
+2016-08-13 21:35:35,174 INFO  [Log] Chrome driver instantiated 
+2016-08-13 21:35:35,178 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2016-08-13 21:35:40,508 INFO  [Log] Test browser opened 
+2016-08-13 21:35:40,523 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:35:40,523 INFO  [Log] Password from test data is Test@123 
+2016-08-13 21:35:40,556 INFO  [Log] My Account link element found 
+2016-08-13 21:35:42,301 INFO  [Log] My Account link click action performed 
+2016-08-13 21:35:42,319 INFO  [Log] Username text box found 
+2016-08-13 21:35:42,365 INFO  [Log] Username entered into Username text box 
+2016-08-13 21:35:42,381 INFO  [Log] Password text box found 
+2016-08-13 21:35:42,419 INFO  [Log] Password entered into password text box 
+2016-08-13 21:35:42,435 INFO  [Log] Submit Button found 
+2016-08-13 21:35:42,469 INFO  [Log] Submit button clicked 
+2016-08-13 21:35:46,190 INFO  [Log] Browser closed 
+2016-08-13 21:35:46,252 INFO  [Log] Test results logged 
+2016-08-13 21:35:46,252 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2016-08-13 21:35:46,252 INFO  [Log] X 
+2016-08-13 21:35:46,252 INFO  [Log] X 
+2016-08-13 21:35:46,252 INFO  [Log] X 
+2016-08-13 21:35:46,253 INFO  [Log] X 
+2016-08-13 21:36:27,248 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:36:27,248 INFO  [Log]                              BEGINNING OF TEST:  UDF_TC 
+2016-08-13 21:36:27,248 INFO  [Log] **************************************************************************************** 
+2016-08-13 21:36:27,248 INFO  [Log]   
+2016-08-13 21:36:27,712 INFO  [Log] Username from test data is testuser_1 
+2016-08-13 21:36:27,712 INFO  [Log] Password from test data is Test@123 
+2017-04-24 22:22:15,342 INFO  [Log] **************************************************************************************** 
+2017-04-24 22:22:15,342 INFO  [Log]                              BEGINNING OF TEST:  Selenium Test:  TestNG_Framework 
+2017-04-24 22:22:15,342 INFO  [Log] **************************************************************************************** 
+2017-04-24 22:22:15,342 INFO  [Log]   
+2017-04-24 22:22:16,084 INFO  [Log] Excel data sheet opened 
+2017-04-24 22:22:24,666 INFO  [Log] Chrome driver instantiated 
+2017-04-24 22:22:24,678 INFO  [Log] Implecit wait for driver set to 10 seconds 
+2017-04-24 22:22:46,805 INFO  [Log] Test browser opened 
+2017-04-24 22:22:46,859 INFO  [Log] Username from test data is testuser_1 
+2017-04-24 22:22:46,859 INFO  [Log] Password from test data is Test@123 
+2017-04-24 22:22:46,926 INFO  [Log] My Account link element found 
+2017-04-24 22:22:49,535 INFO  [Log] My Account link click action performed 
+2017-04-24 22:22:49,586 INFO  [Log] Username text box found 
+2017-04-24 22:22:49,676 INFO  [Log] Username entered into Username text box 
+2017-04-24 22:22:49,696 INFO  [Log] Password text box found 
+2017-04-24 22:22:49,754 INFO  [Log] Password entered into password text box 
+2017-04-24 22:22:49,774 INFO  [Log] Submit Button found 
+2017-04-24 22:22:49,831 INFO  [Log] Submit button clicked 
+2017-04-24 22:22:51,451 INFO  [Log] Browser closed 
+2017-04-24 22:22:51,638 INFO  [Log] Test results logged 
+2017-04-24 22:22:51,638 INFO  [Log]                            END OF TEST Selenium Test:  Log4Logging TC              
+2017-04-24 22:22:51,638 INFO  [Log] X 
+2017-04-24 22:22:51,639 INFO  [Log] X 
+2017-04-24 22:22:51,639 INFO  [Log] X 
+2017-04-24 22:22:51,639 INFO  [Log] X 
