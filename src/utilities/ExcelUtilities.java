@@ -1,17 +1,17 @@
 package utilities;
 
-	import java.io.FileInputStream;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
-	
-	import org.apache.poi.xssf.usermodel.XSSFRow;
-	
-	import org.apache.poi.xssf.usermodel.XSSFSheet;
-	
-	import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 
 public class ExcelUtilities {
 	
@@ -27,7 +27,8 @@ public class ExcelUtilities {
 	
 	public static Object[][] getTableArray(String FilePath, String SheetName) throws Exception {   
 		 
-		   String[][] tabArray = null;
+		   //String[][] tabArray = null;
+			Object[][] tabArray = null;
 
 		   try {
 
@@ -145,8 +146,79 @@ public static String getCellData(int RowNum, int ColNum) throws Exception{
 
 }
 
+@SuppressWarnings({ "rawtypes", "unchecked" })
+public static List getSheetData() throws Exception {
+	
+	List dataList = new ArrayList();
+	
+	try {
+		java.util.Iterator rows = ExcelWSheet.rowIterator();
+		
+		while (rows.hasNext()) {
+            XSSFRow row = ((XSSFRow) rows.next());
+            // int r=row.getRowNum();
+            java.util.Iterator cells = row .cellIterator();
+            int i = 0;
+            String[] testData= new String[3];
+            while (cells.hasNext()) {
+
+                XSSFCell cell = (XSSFCell) cells.next();
+                String value = cell.getStringCellValue();
+                if (!value.equals(null)) {
+                     testData [i] = value;
+                     i++;
+                }
+            }
+            dataList.add(testData);
+        }
+	
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+return dataList;
+}
+
+public static String getCellDataByHeader( String headerName, int rowNum) {
+	try {
+		XSSFRow row = ExcelWSheet.getRow(0);
+        XSSFCell cell = null;
+
+ 		int colNum = -1;
+
+		int dataType = Cell.getCellType();
+		
+		if (dataType== 3) {
+			return "";
+			
+		}else {
+		
+			for(int i=0; i < row.getLastCellNum(); i++)
+	        {
+	            if(row.getCell(i).getStringCellValue().trim().equals(headerName))
+	            { 
+	            	colNum = i;
+	            	i = row.getLastCellNum();
+	            }
+	        }        
+	        
+	        row = ExcelWSheet.getRow(rowNum);
+	        cell = row.getCell(colNum);
+
+	        return cell.getStringCellValue();
+		}
+		
+	}catch(Exception e)
+      {
+          e.printStackTrace();
+          return "row "+rowNum+" or column "+ headerName +" does not exist";
+      }
+ 
+}
+
 //This method is to write in the Excel cell, Row num and Col num are the parameters
 
+@SuppressWarnings("static-access")
 public static void setCellData(String Result,  int RowNum, int ColNum) throws Exception	{
 
 		try{
@@ -187,25 +259,27 @@ public static void setCellData(String Result,  int RowNum, int ColNum) throws Ex
 
 	}
 
+
 //This method is to find a row based on the test case name
-public static int getRowContains(String sTestCaseName, int colName) throws Exception {
-	
-	int i;
-	
-	try {
-		int rowCount = ExcelWSheet.getLastRowNum();
-		for (i = 0; i < rowCount; i++){
-			if(ExcelUtilities.getCellData(i, colName).equalsIgnoreCase(sTestCaseName)){
-				break;
+	public static int getRowContains(String sTestCaseName, int colName) throws Exception {
+		
+		int i;
+		
+		try {
+			int rowCount = ExcelWSheet.getLastRowNum();
+			for (i = 0; i < rowCount; i++){
+				if(ExcelUtilities.getCellData(i, colName).equalsIgnoreCase(sTestCaseName)){
+					break;
+				}
 			}
+			return i;
+			
+		}catch (Exception e) {
+			Log.error("Class: ExcelUtilities  |  Method:  getRowContains  | Exception Desc:  " + e.getMessage());
+			throw (e);
+			
 		}
-		return i;
-		
-	}catch (Exception e) {
-		Log.error("Class: ExcelUtilities  |  Method:  getRowContains  | Exception Desc:  " + e.getMessage());
-		throw (e);
-		
 	}
-}
+
 
 }
